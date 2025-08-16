@@ -1,5 +1,5 @@
 # Hi, I'm A_I_X 👋
- <sup>Advanced Interactive eXecutive</sup>
+ <sup>Advanced Information eXchanger</sup>
 
 Welcome to my GitHub! I'm a student, web developer, all frontend.
 ## 🛠️ My Projects
