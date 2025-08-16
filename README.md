@@ -3,11 +3,12 @@
 
 Welcome to my GitHub! I'm a student, web developer, all frontend.
 ## 🛠️ My Projects
-- 🔧 **XyleOS / XyeOS** – A macOS-inspired or terminal-like browser OS interface.
+- 🔧 **XyleOS / ZyperOS** – 2 command based online "OS's" Zyper is the better one.
 - 🎮 **BloxdForge** – Curse Forge but for a minecraft knockoff.
-- 🎧 **WinTrack95** – A retro-styled music player inspired by Windows 95.
+- lot of small ones
 
 ## Skills
 - HTML, CSS, JavaScript
 - Three.js
 - WebGL
+
